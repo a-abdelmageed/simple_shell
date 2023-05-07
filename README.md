@@ -2,13 +2,13 @@
 
 		README.md File....
 
-ALX Software Engineering
+ALX Software Engineering...
 
 Cohort: 14
 
 Project number: 2
 
-Simple Shell in C Programming Language
+Simple Shell in C Programming Language....
 
 Topics: C  -  Group project  -  Syscall
 	
